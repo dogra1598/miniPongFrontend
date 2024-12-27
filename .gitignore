@@ -15,3 +15,5 @@ sketch
 
 .env
 .vscode
+.parcel-cache
+dist
